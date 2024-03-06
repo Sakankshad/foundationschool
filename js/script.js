@@ -27,7 +27,7 @@
 			rdMailForm: $(".rd-mailform"),
 			rdInputLabel: $(".form-label"),
 			regula: $("[data-constraints]"),
-			swiper: document.querySelectorAll( '.swiper-container' ),
+			// swiper: document.querySelectorAll( '.swiper-container' ),
 			isotope: $(".isotope"),
 			lightGallery: $("[data-lightgallery='group']"),
 			lightGalleryItem: $("[data-lightgallery='item']"),
